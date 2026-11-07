@@ -100,8 +100,8 @@ Install the following before running the project:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/trishant-patel/InterviewIQ.git
+cd InterviewIQ
 ```
 
 Replace the placeholders with your GitHub username and repository name.
@@ -211,8 +211,8 @@ Keep all secrets in your local `.env` file. If a secret is accidentally committe
 
 **Your Name**
 
-- GitHub: https://github.com/<YOUR_GITHUB_USERNAME>
-- LinkedIn: https://www.linkedin.com/in/<YOUR_LINKEDIN_USERNAME>/
+- GitHub: https://github.com/trishant-patel
+- LinkedIn: https://www.linkedin.com/in/trishantpatel
 
 ---
 
